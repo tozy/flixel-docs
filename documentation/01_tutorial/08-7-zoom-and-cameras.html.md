@@ -16,7 +16,7 @@ When you run your game now, you'll notice that everything is really, really smal
 	FlxG.camera.follow(_player, TOPDOWN, 1);
 	```
 
-	This simply tells the camera to follow the player using the `TOPDOWN` style, with a `lerp` of 1 (which helps the camera move a little more smoother).
+	This simply tells the camera to follow the player using the `TOPDOWN` style, with a `lerp` of 1 (which helps the camera move a little smoother).
 
 That's it! Test out the game and see how it looks!
 
